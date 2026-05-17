@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://me2.mrt-offer.co.kr/sitemap.xml
